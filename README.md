@@ -14,8 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+	<a href="https://www.linkedin.com/in/anketkohak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anketkohak" height="30" width="40" /></a>
 <a href="https://twitter.com/anketkohak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anketkohak" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/anket.kohaksp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anket.kohaksp" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anket.kohaksp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anket.kohaksp" height="30" width="40" /></a>
 <a href="https://instagram.com/anket.kohak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anket.kohak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anketkohak40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anketkohak40" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anket5669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anket5669" height="30" width="40" /></a>
