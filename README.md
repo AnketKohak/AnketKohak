@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anket Kohak</h1>
+<h1 align="center"> I'm Anket Kohak</h1>
 <h3 align="center">A passionate iOS Developer from India</h3>
 <p align="center">
   <a href="mailto:anketkohak40@gmail.com" target="_blank">
